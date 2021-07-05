@@ -1,0 +1,30 @@
+p{ color:black; 
+    Background-color: rgb(17, 17, 16)
+    Height: 2000px
+    Width: 600px
+    Font-size: 18px
+         }
+         #bitch{color:blue;
+    Background-color: rgb(24, 27, 24);
+    Height: 100px;
+    Width: 600px;
+    Font-size: 18px; }
+    .legend{
+        color: rgba(22, 22, 20, 0.219);
+    Background-color: rgb(87, 116, 87);
+    Height: 600px;
+    Width: 600px;
+    border: 10px dashed blue;
+    border-radius: 20px;
+    margin: 12px 20px 30px 90px;
+    Text-align: center;
+    Font-size: 2em;
+    Font-family: time new roman;
+    Font-weight: 1000;
+    
+    }
+    #boss{
+        border: 10px wheat;
+        padding: 200px 400px 600px 800px;
+    border-radius: 800px ;
+    }
